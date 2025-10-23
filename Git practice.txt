@@ -2,3 +2,4 @@ Git practice
 Git Add. <This is to add file to stageing area>
 git commit -m <for puttingto push >
 git push to push the changes to repo 
+git pull <This command help us to pull the code local repo tp remote repo and remote repo to local repo> 
