@@ -7,3 +7,12 @@ git fetch origin <to pull the branch from git remote repo for comparision>git
 To create new branch we have command git branch <branchname>
 to change brach git check out branch name
 to compare two branch git diff <branchname1> <branchname2>
+git merge to merge two merge two branch 
+Git Snapshot
+Git Conflict 
+Git stash 
+git reset 
+git revert 
+git remove 
+git Clean 
+git cherry pick 
