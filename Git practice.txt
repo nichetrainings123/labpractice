@@ -8,3 +8,4 @@ To create new branch we have command git branch <branchname>
 to change brach git check out branch name
 to compare two branch git diff <branchname1> <branchname2>
 git merge to merge two merge two branch 
+This change is made on git main branch 
